@@ -1,0 +1,27 @@
+C:\Users\octav\AppData\Local\Temporary Projects\Flepi Bird\obj\x86\Debug\Flepi_Bird.Form1.resources
+C:\Users\octav\AppData\Local\Temporary Projects\Flepi Bird\obj\x86\Debug\Flepi_Bird.Properties.Resources.resources
+C:\Users\octav\AppData\Local\Temporary Projects\Flepi Bird\obj\x86\Debug\Flepi Bird.csproj.GenerateResource.Cache
+C:\Users\octav\AppData\Local\Temporary Projects\Flepi Bird\bin\Debug\Flepi Bird.exe
+C:\Users\octav\AppData\Local\Temporary Projects\Flepi Bird\bin\Debug\Flepi Bird.pdb
+C:\Users\octav\AppData\Local\Temporary Projects\Flepi Bird\obj\x86\Debug\Flepi Bird.exe
+C:\Users\octav\AppData\Local\Temporary Projects\Flepi Bird\obj\x86\Debug\Flepi Bird.pdb
+C:\Users\octav\OneDrive\Desktop\flepi bird\Flepi Bird\Flepi Bird\obj\x86\Debug\Flepi Bird.exe
+C:\Users\octav\OneDrive\Desktop\flepi bird\Flepi Bird\Flepi Bird\obj\x86\Debug\Flepi Bird.pdb
+C:\Users\octav\OneDrive\Desktop\Flepi bird\Flepi Bird\Flepi Bird\bin\Debug\Flepi Bird.exe
+C:\Users\octav\OneDrive\Desktop\Flepi bird\Flepi Bird\Flepi Bird\bin\Debug\Flepi Bird.pdb
+C:\Users\octav\OneDrive\Desktop\Flepi bird\Flepi Bird\Flepi Bird\obj\x86\Debug\Flepi_Bird.Form1.resources
+C:\Users\octav\OneDrive\Desktop\Flepi bird\Flepi Bird\Flepi Bird\obj\x86\Debug\Flepi_Bird.Properties.Resources.resources
+C:\Users\octav\OneDrive\Desktop\Flepi bird\Flepi Bird\Flepi Bird\obj\x86\Debug\Flepi Bird.csproj.GenerateResource.Cache
+C:\Users\octav\OneDrive\Desktop\Flepi bird\Flepi Bird\Flepi Bird\obj\x86\Debug\Flepi Bird.csprojResolveAssemblyReference.cache
+C:\Users\octav\OneDrive\Desktop\teme\laborator 17\Flepi bird\Flepi Bird\Flepi Bird\obj\x86\Debug\Flepi Bird.exe
+C:\Users\octav\OneDrive\Desktop\teme\laborator 17\Flepi bird\Flepi Bird\Flepi Bird\obj\x86\Debug\Flepi Bird.csprojResolveAssemblyReference.cache
+C:\Users\octav\OneDrive\Desktop\teme\laborator 17\Flepi bird\Flepi Bird\Flepi Bird\obj\x86\Debug\Flepi_Bird.Form1.resources
+C:\Users\octav\OneDrive\Desktop\teme\laborator 17\Flepi bird\Flepi Bird\Flepi Bird\obj\x86\Debug\Flepi_Bird.Properties.Resources.resources
+C:\Users\octav\OneDrive\Desktop\teme\laborator 17\Flepi bird\Flepi Bird\Flepi Bird\obj\x86\Debug\Flepi Bird.csproj.GenerateResource.Cache
+C:\Users\octav\OneDrive\Desktop\teme\laborator 17\Flepi bird\Flepi Bird\Flepi Bird\bin\Debug\Flepi Bird.exe
+C:\Users\octav\OneDrive\Desktop\teme\laborator 17\Flepi bird\Flepi Bird\Flepi Bird\bin\Debug\Flepi Bird.pdb
+C:\Users\octav\OneDrive\Desktop\teme\laborator 17\Flepi bird\Flepi Bird\Flepi Bird\obj\x86\Debug\Flepi Bird.pdb
+C:\Users\octav\OneDrive\Desktop\MATLAB TEME\Flepi Bird\Flepi Bird\obj\x86\Debug\Flepi Bird.csproj.AssemblyReference.cache
+C:\Users\octav\OneDrive\Desktop\MATLAB TEME\Flepi Bird\Flepi Bird\obj\x86\Debug\Flepi Bird.csproj.SuggestedBindingRedirects.cache
+C:\Users\octav\OneDrive\Desktop\MATLAB TEME\Flepi Bird\Flepi Bird\obj\x86\Debug\Flepi Bird.exe
+C:\Users\octav\OneDrive\Desktop\MATLAB TEME\Flepi Bird\Flepi Bird\obj\x86\Debug\Flepi Bird.pdb
